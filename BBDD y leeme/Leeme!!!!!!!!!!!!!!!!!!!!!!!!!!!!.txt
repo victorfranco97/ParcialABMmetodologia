@@ -1,0 +1,4 @@
+Para levantar aplicacion seguir los siguientes pasos:
+1- Levantar BBDD Script de BBDD en archivo "Datos" de la carpeta BBDD, 
+2- Abrir Back, Ejecutar con Netbeans. levantar tomcat
+3- Abrir Front, en terminal ejecutar "npm start"
